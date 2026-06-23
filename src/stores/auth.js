@@ -22,7 +22,7 @@ export const useAuthStore = defineStore('auth', () => {
       email: 'hamza@thecitypharma.com',
       password: 'staff123',
       role: 'staff',
-      avatar: 'NJ',
+      avatar: 'HH',
       phone: '+880 1711-000002',
     },
   ]
